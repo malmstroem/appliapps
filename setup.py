@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="appliapps",
-    version="0.0.1",
+    version="0.0.2",
     author="Lars Malmstroem",
     maintainer=['Lars Malmstroem'],
     author_email="lars@malmstroem.net",
